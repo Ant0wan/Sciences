@@ -20,3 +20,9 @@ Example d'une demarche scientifique:
 4. Les resultats
 5. Les theories
 6. La predication
+
+
+## Sources
+
+Chapitre 1 - La Chimie: matiere et mesure. Chimie Generale 2e Edition, John W. Hill, Ralph H. Petrucci, Terry W. McCreary, Scott S. Perry. Real Cantin. Pearson ERPI
+

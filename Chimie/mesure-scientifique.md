@@ -48,7 +48,7 @@ L'ecriture peut se faire en ecriture scientifique (1,0 .10^0) ou decimale (1,0).
 1,2000.10^3 = 1200,0. <- avec le "."
 
 
-Exemples:
+### Exemples:
 
 1,827 x 0,762 = 1,39 (arrondi superieur, 0,762 n'a que 3 chiffres significatifs)
 
@@ -57,3 +57,8 @@ On denombre 21 eleves: 453,6/21 = 21,60. On pourrait l'ecrire 21,60 mais le zero
 Lors de longs calculs il vaut mieux eviter d'arrondir les resultats intermediaires sauf quand il n'est pas possible autrement.
 
 
+## Sources
+
+Chapitre 1 - La Chimie: matiere et mesure. Chimie Generale 2e Edition, John W. Hill, Ralph H. Petrucci, Terry W. McCreary, Scott S. Perry. Real Cantin. Pearson ERPI
+
+Dictionnaire Larousse
