@@ -47,6 +47,7 @@ L'ecriture peut se faire en ecriture scientifique (1,0 .10^0) ou decimale (1,0).
 1,200.10^3 = 1200. <- avec le ".",
 1,2000.10^3 = 1200,0. <- avec le "."
 
+Lors de longs calculs il vaut mieux eviter d'arrondir les resultats intermediaires sauf quand il n'est pas possible autrement.
 
 ### Exemples:
 
@@ -54,7 +55,6 @@ L'ecriture peut se faire en ecriture scientifique (1,0 .10^0) ou decimale (1,0).
 
 On denombre 21 eleves: 453,6/21 = 21,60. On pourrait l'ecrire 21,60 mais le zero porterait a confusion si on ne voyait que le resultat exprime.
 
-Lors de longs calculs il vaut mieux eviter d'arrondir les resultats intermediaires sauf quand il n'est pas possible autrement.
 
 
 ## Sources
