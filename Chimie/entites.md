@@ -1,41 +1,41 @@
-# Entites Chimiques
+# Entités chimiques
 
-## Proprietes de la matiere
+## Propriétés de la matière
 
-Chimie: etude de la composition, de la structure, des prorietes et des changements de la matiere.
+**Chimie** : étude de la composition, de la structure, des propriétés et des transformations de la matière.
 
-Matiere: toute chose qui occupe un espace et qui possede une masse.
+**Matière** : toute chose qui occupe un espace et possède une masse.
 
-Atome: la plus petite unite caracteristique d'un echantillon de matiere; un atome d'un element differe d'un atome de tout autre element.
+**Atome** : la plus petite unité caractéristique d'un échantillon de matière ; un atome d'un élément diffère d'un atome de tout autre élément.
 
-Molecule: unite formee d'au moins deux atomes unis l'un a l'autre, selon un arrangement donne, par des forces appelees "liaisons covalentes".
+**Molécule** : unité formée d'au moins deux atomes unis entre eux, selon un agencement donné, par des forces appelées « liaisons covalentes ».
 
-Composition: propriete d'un echantillon de matiere qui definit la nature des atomes et les proportions relatives de ceux-ci dans l'echantillon.
+**Composition** : propriété d'un échantillon de matière qui définit la nature des atomes et leurs proportions relatives dans l'échantillon.
 
-Propriete physique: caracteristique d'un ehcnatillon de matiere en l'absence de tout changement de sa composition.
+**Propriété physique** : caractéristique d'un échantillon de matière en l'absence de tout changement de sa composition.
 
-Propriete chimique: carateristique d'un echantillon de matiere dont la composition subit un changement.
+**Propriété chimique** : caractéristique d'un échantillon de matière dont la composition subit une transformation.
 
-Changement physique: modification observable a l'echelle macroscopique (changement de phase ou variation d'une autre propriete physique) d'un echantillon de matiere qui ne subit aucune modification a l'echelle microscopique de sa composition.
+**Changement physique** : modification observable à l'échelle macroscopique (changement de phase ou variation d'une autre propriété physique) d'un échantillon de matière qui ne subit aucune modification de sa composition à l'échelle microscopique.
 
-Changement chimique (reaction chimique): processus entrainant une modification de la composition d'un echantillon de matiere ou de la structure des molecules de ce dernier. Une ou plusieurs substances initiales (reactifs) se transforment en une ou plusieurs substances differentes (produit).
+**Changement chimique (réaction chimique)** : processus entraînant une modification de la composition d'un échantillon de matière ou de la structure des molécules de ce dernier. Une ou plusieurs substances initiales (réactifs) se transforment en une ou plusieurs substances différentes (produits).
 
+## Classification de la matière
 
-## Classification de la matiere
+**Substance** : type de matière ayant une composition et des propriétés définies, ou constantes, i.e. ne variant pas d'un échantillon à l'autre. Toute substance est soit un élément, soit un composé.
 
-Substance: type de matiere ayant une composition et des proprietes definies, ou constantes, i.e. ne variant pas d'un echantillon a un autre. Toute substance est soit un element, soit un compose.
+**Élément** : substance qui ne peut être séparée en substances plus simples au moyen de réactions chimiques. Tous les atomes d'un élément donné possèdent le même numéro atomique.
 
-Element: substance qui ne peut etre separee en substances plus simples au moyen de reactions chimiques. Tous les atomes d'un element donne ont le meme numero atomique.
+**Composé** : substance formée d'atomes appartenant à au moins deux types d'éléments. Des atomes différents sont combinés selon des proportions fixes.
 
-Compose: substance formee d'atomes appartenant a au moins deux types d'elements. Des atomes differens sont combines selon des proportions fixes.
+**Symbole chimique** : représentation d'un élément, formée d'une ou de deux lettres tirées le plus souvent du nom français de celui-ci, mais parfois de son nom latin ou arabe, ou du nom de l'un de ses composés.
 
-Symbole chimique: representation d'un element, formee d'une ou de deux lettres tirees le plus souvent du nom francais de celui-ci, mais parfois de son nom latin ou arabe, ou du nom de l'un de ses composes.
+**Mélange homogène (solution)** : mélange de deux ou plusieurs substances dont la composition et les propriétés sont uniformes, i.e. identiques en tout point du mélange.
 
-Melange homogene (solution): melange de deux ou plusieurs substances dont la composition et les proprietes sont uniformes, i.e. identiques en tout point du melange.
+**Mélange hétérogène** : mélange dont la composition et/ou les propriétés varient d'un point à un autre.
 
-Melange heterogene: melange dont la composition et/ou les proprietes varient d'un point a un autre.
-
+---
 
 ### Sources
 
-Chapitre 1 - La Chimie: matiere et mesure. Chimie Generale 2e Edition, John W. Hill, Ralph H. Petrucci, Terry W. McCreary, Scott S. Perry. Real Cantin. Pearson ERPI
+Hill, J. W., Petrucci, R. H., McCreary, T. W., & Perry, S. S. (2010). *Chimie générale* (2e éd., trad. R. Cantin). Pearson ERPI. (Ouvrage original publié en 2005)
