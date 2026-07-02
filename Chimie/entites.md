@@ -20,10 +20,10 @@
 > *Exemples : inflammabilité, réactivité avec l'acide, pouvoir oxydant, stabilité à la chaleur.*
 
 **Changement physique** : modification observable à l'échelle macroscopique (changement de phase ou variation d'une autre propriété physique) d'un échantillon de matière qui ne subit aucune modification de sa composition à l'échelle microscopique.
-> *Exemples : fusion de la glace (solide → liquide), ébullition de l'eau (liquide → gaz), dissolution du sucre dans l'eau, découpage d'un morceau de métal.*
+> *Exemples : fusion de la glace (solide → liquide), ébullition de l'eau (liquide → gaz)*
 
 **Changement chimique (réaction chimique)** : processus entraînant une modification de la composition d'un échantillon de matière ou de la structure des molécules de ce dernier. Une ou plusieurs substances initiales (réactifs) se transforment en une ou plusieurs substances différentes (produits).
-> *Exemple : 2 H₂(g) + O₂(g) → 2 H₂O(l) — combustion du dihydrogène dans le dioxygène pour former de l'eau.*
+> *Exemple : 2 H₂(g) + O₂(g) → 2 H₂O(l) - combustion du dihydrogène dans le dioxygène pour former de l'eau.*
 
 ## Classification de la matière
 
@@ -37,13 +37,13 @@
 > *Exemples : NaCl (chlorure de sodium), H₂SO₄ (acide sulfurique), C₆H₁₂O₆ (glucose), NH₃ (ammoniac).*
 
 **Symbole chimique** : représentation d'un élément, formée d'une ou de deux lettres tirées le plus souvent du nom français de celui-ci, mais parfois de son nom latin ou arabe, ou du nom de l'un de ses composés.
-> *Exemples : C (carbone), O (oxygène), Fe (fer — du latin *ferrum*), Na (sodium — du latin *natrium*), Pb (plomb — du latin *plumbum*), Ag (argent — du latin *argentum*).*
+> *Exemples : C (carbone), O (oxygène), Fe (fer - du latin *ferrum*), Na (sodium - du latin *natrium*), Pb (plomb - du latin *plumbum*), Ag (argent - du latin *argentum*).*
 
 **Mélange homogène (solution)** : mélange de deux ou plusieurs substances dont la composition et les propriétés sont uniformes, i.e. identiques en tout point du mélange.
-> *Exemples : eau salée (NaCl dissous dans H₂O), air (mélange de N₂, O₂, CO₂, etc.), sirop, laiton (alliage de cuivre et de zinc).*
+> *Exemples : eau salée (NaCl dissous dans H₂O), air (mélange de N₂, O₂, CO₂, etc.), laiton (alliage de cuivre et de zinc).*
 
 **Mélange hétérogène** : mélange dont la composition et/ou les propriétés varient d'un point à un autre.
-> *Exemples : eau et huile (non miscibles), granit (mélange de quartz, feldspath et mica), sang (cellules en suspension dans le plasma), sable et limaille de fer.*
+> *Exemples : eau et huile (non miscibles), granit (mélange de quartz, feldspath et mica)*
 
 ---
 
